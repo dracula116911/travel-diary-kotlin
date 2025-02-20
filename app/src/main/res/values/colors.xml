@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#1976D2</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#3C03DA</color>
+    <color name="red">#D32F2F</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#03DAC5</color>
+    <color name="secondary_variant">#018786</color>
+    <color name="background_color">#E6E0FF</color>
+    <item name="random_colors" type="array">
+        <item>#FF5733</item> <!-- Example color -->
+        <item>#33FF57</item> <!-- Example color -->
+        <item>#3357FF</item> <!-- Example color -->
+        <item>#FF33A1</item> <!-- Example color -->
+        <item>#F7FF33</item> <!-- Example color -->
+    </item>
+
+</resources>
